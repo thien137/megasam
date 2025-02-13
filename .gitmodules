@@ -1,0 +1,3 @@
+[submodule "DROID-SLAM-mega"]
+	path = DROID-SLAM-mega
+	url = https://github.com/thien137/DROID-SLAM-mega.git
